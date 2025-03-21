@@ -1,14 +1,3 @@
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes;" />
 </h1>
@@ -21,9 +10,7 @@
  
  Atualmente curso **Técnico em Desenvolvimento de Sistemas** na ETEC de Taboão da Serra e expandindo meu conhecimento com diversoso outros cursos onlines para o desenvolvimento web moderno.  
  Estou em busca de oportunidades que me permitam utilizar minhas habilidades em projetos desafiadores, colaborar com equipes inovadoras e expandir minha experiência profissional.
- 
  ---
- 
  ## ⚒️ Tecnologias & Ferramentas  
  
  <p align="center">
