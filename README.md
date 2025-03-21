@@ -24,5 +24,5 @@
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008)](https://github.com/RafaelPaes2008/github-readme-stats)
  
