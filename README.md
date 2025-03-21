@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 👨‍💻 Olá, me chamo **Rafael Paes**  
  
  Bem-vindo ao meu perfil! Sou um desenvolvedor **Front End** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
@@ -26,4 +23,6 @@
  
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  
