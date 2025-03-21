@@ -1,3 +1,14 @@
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes;" />
 </h1>
