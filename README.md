@@ -30,10 +30,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
  
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
