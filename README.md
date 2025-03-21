@@ -1,4 +1,6 @@
-## 👨‍💻 Olá, me chamo **Rafael Paes**  
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes;" />
+</h1>
  
  Bem-vindo ao meu perfil! Sou um desenvolvedor **Front End** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
  
@@ -20,12 +22,28 @@
  </p>
  
  ---
+ <h2 align="center" >⚡Stats⚡</h2>
+<br>
+<div align="center" >
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
  
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
  ---
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true&theme=radical)
+
+
+ <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
  
 
  
