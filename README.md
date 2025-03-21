@@ -22,8 +22,8 @@
  ---
  <h2 align="center" >⚡Stats⚡</h2>
 <br>
-<img alt="top langs" align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPaes2008&theme=radical&layout=compact"/>
 <img alt="my stats" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&theme=radical"/> 
+<img alt="top langs" align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPaes2008&theme=radical&layout=compact"/>
 
  <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
