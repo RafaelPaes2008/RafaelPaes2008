@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**RafaelPaes2008/RafaelPaes2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Olá, me chamo **Rafael Paes**  
+ 
+ Bem-vindo ao meu perfil! Sou um desenvolvedor **Front End** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
+ 
+ ---
+ 
+ ## 💼 Sobre Mim  
+ 
+ Atualmente curso **Técnico em Desenvolvimento de Sistemas** na ETEC de Taboão da Serra e expandindo meu conhecimento com diversoso outros cursos onlines para o desenvolvimento web moderno.  
+ Estou em busca de oportunidades que me permitam utilizar minhas habilidades em projetos desafiadores, colaborar com equipes inovadoras e expandir minha experiência profissional.
+ 
+ ---
+ 
+ ## 🚀 Tecnologias & Ferramentas  
+ 
+ [![My Skills]
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=php,git,github,mysql,html,css,bootstrap,figma" />
+   </a>
+ </p>
+ 
+ ---
+ 
+ ## 🎯 Sobre Mim  
+ Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
+ 
