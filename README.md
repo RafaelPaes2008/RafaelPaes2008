@@ -13,7 +13,7 @@
  
  ---
  
- ## 🚀 Tecnologias & Ferramentas  
+ ## ⚒️ Tecnologias & Ferramentas  
  
  <p align="center">
    <a href="https://skillicons.dev">
