@@ -34,8 +34,6 @@
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
   </div>
- ---
-
 
 
  <h1 align="center">
