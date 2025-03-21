@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes!;" />
 </h1>
  
  Bem-vindo ao meu perfil! Sou um desenvolvedor **Front End** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
@@ -26,7 +26,7 @@
 <img alt="top langs" align="left" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPaes2008&theme=radical&layout=compact"/>
 
  <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
  
 
