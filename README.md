@@ -19,11 +19,13 @@
    </a>
  </p>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true&theme=radical)
  ---
  
  ## 🎯 Sobre Mim  
  Possuo um nível de inglês técnico/avançado, gosto muito de praticar musculação e leio livros nas minhas horas vagas.
+ ---
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&show_icons=true&theme=radical)
  
 
  
