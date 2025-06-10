@@ -8,7 +8,7 @@
  
  ## 💼 Sobre Mim  
  
- Atualmente curso **Técnico em Desenvolvimento de Sistemas** na ETEC de Taboão da Serra e expandindo meu conhecimento com diversoso outros cursos onlines para o desenvolvimento web moderno.  
+ Atualmente curso **Técnico em Desenvolvimento de Sistemas** na ETEC de Taboão da Serra e expandindo meu conhecimento com diversos outros cursos onlines para o desenvolvimento web moderno.  
  Estou em busca de oportunidades que me permitam utilizar minhas habilidades em projetos desafiadores, colaborar com equipes inovadoras e expandir minha experiência profissional.
  ---
  ## ⚒️ Tecnologias & Ferramentas  
