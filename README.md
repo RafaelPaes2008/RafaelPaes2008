@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael+Paes!;" />
 </h1>
  
- Bem-vindo ao meu perfil! Sou um desenvolvedor **Front End** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
+ Bem-vindo ao meu perfil! Sou um desenvolvedor **web** e  **Designer Gráfico**, apaixonado por tecnologia e design, buscando sempre criar ambientes aconchegantes e claros em informações  🚀  
  
  ---
  
