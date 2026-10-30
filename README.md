@@ -18,15 +18,7 @@
      <img src="https://skillicons.dev/icons?i=php,git,github,mysql,html,css,bootstrap,figma,java,javascript,c#" />
    </a>
  </p>
- 
- ---
- <h2 align="center" >⚡Stats⚡</h2>
-<br>
-<img alt="my stats" align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=RafaelPaes2008&theme=prussian"/> 
 
  <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
- 
-
- 
